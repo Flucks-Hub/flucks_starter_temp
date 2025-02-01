@@ -42,7 +42,7 @@ const Login = () => {
             height={25}
             alt="google"
           />
-                Continue with Google
+                Continue with Googleee
             </Button>
     </DialogContent>
   </Dialog>
